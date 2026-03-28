@@ -129,8 +129,7 @@ currently_building:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gaurav9197&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav9197&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav9197&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
