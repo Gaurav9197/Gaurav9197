@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gaurav9197&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://linkedin.com/in/gauravgorle"><img src="https://img.shields.io/badge/-gauravgorle-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.gauravblog.in/"><img src="https://img.shields.io/badge/-gauravblog.in-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:gauravgorle9197@gmail.com"><img src="https://img.shields.io/badge/-gauravgorle9197@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
